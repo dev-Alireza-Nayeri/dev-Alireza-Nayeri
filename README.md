@@ -7,3 +7,8 @@ I am a front-end developer
 - JavaScript
 - React
 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Alireza-Nayeri&show_icons=true&theme=dark)
+
+
+
